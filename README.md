@@ -10,7 +10,7 @@
     - [CSS3进阶]
 - [JavaScript] (#javascript)
     - [JavaScript基础]
-
+        - 变量
 ##HTML
 
-##JavaScript (#javascript)
+##JavaScript
