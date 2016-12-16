@@ -6,6 +6,6 @@
 - [CSS基础]
 - [CSS3入门]
 - [CSS3进阶]
-- [JavaScript基础] (https://github.com/shenhai-fx/skill-map-practice/edit/master/JavaScript/README.md)
-    - [变量]
+- [JavaScript基础] (JavaScript/)
+    - [1.变量] (JavaScript/Readme.md)
 
