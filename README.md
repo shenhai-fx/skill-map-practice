@@ -1,4 +1,4 @@
-#   Skill Map Practice
+#Skill Map Practice
 
 前端技能图谱修炼实践
 ##内容列表
