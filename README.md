@@ -7,5 +7,5 @@
 - [CSS3入门]
 - [CSS3进阶]
 - [JavaScript基础] (JavascriptBeginner)
-    - [1. 变量] (JavascriptBeginner/README.md)
+    - [1. 匿名函数] (JavascriptBeginner/1.md)
 
