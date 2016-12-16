@@ -19,4 +19,5 @@
 
 
 
-##JavaScript基础 （https://github.com/shenhai-fx/skill-map-practice/tree/master/JavaScript）
+##JavaScript基础
+
