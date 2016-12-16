@@ -6,6 +6,6 @@
 - [CSS基础]
 - [CSS3入门]
 - [CSS3进阶]
-- [JavaScript基础] (JavaScript/)
-    - [1.变量] (JavaScript/Readme.md)
+- [JavaScript基础] (JavaScriptBenginner/)
+    - [1. 变量] (JavaScriptBenginner/README.md)
 
