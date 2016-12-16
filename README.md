@@ -4,11 +4,13 @@
 ##内容列表
 - [HTML] (#html)
     - [Html基础] 
-- [JavaScript]
-    - [JavaScript基础]
 - [CSS]
     - [CSS基础]
     - [CSS3入门]
     - [CSS3进阶]
+- [JavaScript] (#javascript)
+    - [JavaScript基础]
 
 ##HTML
+
+##JavaScript (#javascript)
